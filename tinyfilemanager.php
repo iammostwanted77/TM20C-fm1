@@ -60,7 +60,7 @@ $root_path = $_SERVER['DOCUMENT_ROOT'];
 
 // Root url for links in file manager.Relative to $http_host. Variants: '', 'path/to/subfolder'
 // Will not working if $root_path will be outside of server document root
-$root_url = 'https://iammostwanted77.github.io/TM20C-fm1/tinyfilemanager.php';
+$root_url = 'https://iammostwanted77.github.io/TM20C-fm1/';
 
 // Server hostname. Can set manually if wrong
 $http_host = $_SERVER['HTTP_HOST'];
